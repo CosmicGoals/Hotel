@@ -1,0 +1,37 @@
+*{margin: 5px;}
+
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background-image: url(img/fondo.jpg);
+}
+nav{
+    background-color: rgb(233, 188, 129);
+}
+.footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    margin: 5px;
+    font-size: 26px;
+}
+#Cotizar{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+header{
+    display: grid;
+    place-items: center;
+    margin-top: 50px;
+}
